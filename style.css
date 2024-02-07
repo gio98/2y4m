@@ -4,6 +4,13 @@
 /* ================
 // Love Letters
 // ============= */
+.agf {
+  position: relative;
+  top: 0px;
+  height: 295px;
+  width: 486px;
+  left: 47px;
+}
 .love {
   position: relative;
   margin-bottom: 6em;
@@ -1083,6 +1090,13 @@ html {
 
 
 @media (orientation: portrait) {
+  .agf {
+    position: relative;
+    top: 0px;
+    height: 295px;
+    width: 486px;
+    left: -109px !important;
+  }
   .roses {
     left: -15px;
     top: -450px;
