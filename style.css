@@ -11,6 +11,11 @@
   width: 486px;
   left: 47px;
 }
+.vid1 {
+  position: relative;
+  width: 560px ;
+  height: 315px;
+}
 .love {
   position: relative;
   margin-bottom: 6em;
@@ -1097,6 +1102,11 @@ html {
     width: 486px;
     left: -109px !important;
   }
+  .vid1 {
+    position: relative;
+    width: 271px;
+    height: 191px;
+}
   .roses {
     left: -15px;
     top: -450px;
